@@ -1,7 +1,7 @@
 
 ## Setup 
 Step 1: Clone repository by comand  
-`git clone https://github.com/AdityaTote/learn-backend-with-me.git`     
+`git clone https://github.com/AdityaTote/discord-bot.git`     
 
 Step 2: Install all packge need for this project by :  
 `npm i `  
