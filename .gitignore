@@ -1,0 +1,3 @@
+# filepath: /home/reek/work/code/projects/discord-bot/.gitignore
+node_modules/
+.env
